@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @diegoc6 23 years
 - 👀 I’m interested in back and front and programming
 - 🌱 I’m currently learning Análise de Sistemas Orientada a Objetos/
-Atividades Complementares/
 Banco de Dados/
 Comunicação Aplicada/
 Desenvolvimento de Software para Internet/
