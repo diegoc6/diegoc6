@@ -25,7 +25,6 @@ Princípios de Sistemas de Informação/
 Programação Orientada a Objetos I/
 Programação Orientada a Objetos II/
 Projeto de Sistemas Orientado a Objetos/
-Projeto Integrado Multidisciplinar/
 Tópicos Especiais de Programação Orientada a Objetos/
 - 💞️ I’m looking to collaborate on divulgação de minha rede
 - 📫 How to reach me https://whatsapp.com/dl/.
